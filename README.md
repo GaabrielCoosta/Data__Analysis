@@ -529,7 +529,7 @@ The idea is to process the data and create a graph with the NY stock exchange ra
 
 # Let's practice ?
 
-*I will provide a solved exercise to practice *
+*I will provide a solved exercise to practice*
 
 *For this project, imagine that your boss makes a database available so that you can analyze it based on your knowledge of Python. For this task, you must use Matplotlib to visualize some graphs and other libraries, Pandas and NumPy for data analysis and manipulation. With the correct use of language features, you will be able to correctly conduct data analysis and visualization, the basic work of a Data Scientist*
 To start your project, follow the instructions below:
