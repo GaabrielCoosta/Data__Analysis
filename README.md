@@ -1,4 +1,4 @@
-# Data Analysis
+# 📈 Data Analysis
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/GaabrielCoosta/Changelle_HandTalk/blob/main/LICENSE)
 ![NPM](https://img.shields.io/static/v1?label=Python&message=3.10&color=<COLOR>&logo=python)
@@ -529,15 +529,17 @@ The idea is to process the data and create a graph with the NY stock exchange ra
 
 # Let's practice ?
 
-*I will provide a solved exercise to practice *
+*I will provide a solved exercise to practice*
 
 *For this project, imagine that your boss makes a database available so that you can analyze it based on your knowledge of Python. For this task, you must use Matplotlib to visualize some graphs and other libraries, Pandas and NumPy for data analysis and manipulation. With the correct use of language features, you will be able to correctly conduct data analysis and visualization, the basic work of a Data Scientist*
 To start your project, follow the instructions below:
-
- - Download the files available in this class and store them in the same folder where you will store your code files.
+```bash
+ - Download the files: 
+  '1-dadosgovbr---2014.csv' , 'Project.ipynb' and store them in the same folder where you will store your code files.
  - Load the .csv table so you can read data from it
  - Print part of the content to check if the reading is happening correctly
-
+ - I made the resolved project available in the file: 'projectanswered.ipynb'
+```
 
 **Note: In this first step, indicated by the instructions above, I already helped you, indicating the way to load the table, according to the code below :D #ThanksGod**
 
