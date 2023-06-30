@@ -117,7 +117,6 @@ This image is perfect to show you how the 3 dimensions look like, so in this par
 
 Where a color image is composed of 3 dimensions of matrices, each with the colors Red, Green and Blue which are the colors known as **RGB**
 
-Image source (modified): https://dev.to/sandeepbalachandran/machine-learning-going-furthur-with-cnn-part-2-41km
 
 **Creating a sequence of numbers**
 
