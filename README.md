@@ -204,7 +204,7 @@ In lists this does not happen, each element will be classified according to its 
 
 ## Pandas
 
-<img width="787" alt="Captura de Tela 2023-03-13 às 08 58 28" src="https://user-images.githubusercontent.com/108695592/224696868-37bb0dcd-3ed9-4a92-a481-84b664a02e44.png">
+![Pandas](https://github.com/GaabrielCoosta/Data__Analysis/assets/108695592/b4626381-ea8e-4a5a-8532-887adfd98a8f)
 
 Pandas is an open-source, free-to-use (under a BSD license) Python library that provides tools for analyzing and manipulating data
 
