@@ -21,7 +21,7 @@
 
  - Data: *something incomplete*
  - Information: *gathering data brings meaning*
- - Knowledge: *Conclusions and reflections built through the information. The understanding of information*
+ - Knowledge: *Conclusions and reflections built through the information, the understanding of information*
  - Wisdom: *what is done with the knowledge gained*
 
 
